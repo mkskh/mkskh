@@ -1,6 +1,6 @@
 # Hi there !
 
-* I'm currently a DCI student
+* I'm currently a DCI-student
 * Completed an orientation course at DCI
-* I'm learning Python
+* Now I'm learning Python
 
