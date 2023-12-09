@@ -9,6 +9,9 @@ I'm a former [seller](https://www.amazon.com/sp?ie=UTF8&seller=A1BBA58K2MDADI&is
 - I have B1 German language level
 - Actively improving my English. I'm taking an English course at language school GreenForest
 
-  ## My projects:
+
+
+
+  # My projects:
   - 09.12.2023 - [tkinter simple program](https://github.com/mkskh/tkinter)
 
