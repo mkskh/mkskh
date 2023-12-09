@@ -7,7 +7,7 @@ I'm a former [seller](https://www.amazon.com/sp?ie=UTF8&seller=A1BBA58K2MDADI&is
 - Completed an orientation course in IT at DCI
 - Now I'm learning Python (started in July 2023)
 - I have B1 German language level
-- Actively improving my English. I'm taking an English course at language school GreenForest
+- Actively improving my English. I'm taking an English course at language school GreenForest (from September 2023)
 
 
 
