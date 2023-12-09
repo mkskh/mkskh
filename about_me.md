@@ -9,5 +9,5 @@ My name is Max. I'm from Ukraine. I'm a former [seller](https://www.amazon.com/s
 - Actively improving my English. I'm taking an English course at language school GreenForest
 
   ## My projects:
-  - 09.12.2023 - [tkinter simple program]([URL](https://github.com/mkskh/tkinter)https://github.com/mkskh/tkinter)
+  - 09.12.2023 - [tkinter simple program]((https://github.com/mkskh/tkinter)https://github.com/mkskh/tkinter)
 
