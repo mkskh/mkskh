@@ -1,6 +1,7 @@
 # Hi there!
 
-My name is Max. I'm from Ukraine. I'm a former [seller](https://www.amazon.com/sp?ie=UTF8&seller=A1BBA58K2MDADI&isAmazonFulfilled=0&asin=B077RT9KMV&ref_=olp_merch_name_7) on Amazon (USA Marketplace).I have master degree in law.
+My name is Max. I'm from Ukraine. I've been living in Berlin since July 2022
+I'm a former [seller](https://www.amazon.com/sp?ie=UTF8&seller=A1BBA58K2MDADI&isAmazonFulfilled=0&asin=B077RT9KMV&ref_=olp_merch_name_7) on Amazon (USA Marketplace).I have master degree in law.
 
 - I'm currently a DCI-student
 - Completed an orientation course in IT at DCI
