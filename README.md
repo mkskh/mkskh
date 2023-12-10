@@ -13,7 +13,7 @@ I'm a former [seller](https://www.amazon.com/sp?ie=UTF8&seller=A1BBA58K2MDADI&is
 
 
   # My projects:
-  - 10.10.2023 - [Simple GUI Calculator](https://github.com/mkskh/Simple-GUI-Calculator)
+  - 10.12.2023 - [Simple GUI Calculator](https://github.com/mkskh/Simple-GUI-Calculator)
   - 09.12.2023 - [tkinter simple program](https://github.com/mkskh/tkinter)
   - 27.11.2023 - [Warehouse Project 4.0](https://github.com/mkskh/Warehouse_4.0). All code was refactored into oop system
   - 22.11.2023 - [Warehouse Project 3.0.](https://github.com/mkskh/warehouse_project_3.0)Added: user system, multi-warehouse system, log system
