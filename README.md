@@ -14,7 +14,7 @@ I'm a former [seller](https://www.amazon.com/sp?ie=UTF8&seller=A1BBA58K2MDADI&is
 
   # My projects:
   - 09.12.2023 - [tkinter simple program](https://github.com/mkskh/tkinter)
-  - 22.11.2023 - [Warehouse Project 3.0.Added: user system, multi-warehouse system, log system](https://github.com/mkskh/warehouse_project_3.0)
-  - 22.10.2023 - [Warehouse Project 2.0. More work with functions and collections](https://github.com/mkskh/updated_project_warehouse)
+  - 22.11.2023 - [Warehouse Project 3.0.](https://github.com/mkskh/warehouse_project_3.0)Added: user system, multi-warehouse system, log system
+  - 22.10.2023 - [Warehouse Project 2.0.](https://github.com/mkskh/updated_project_warehouse)More work with functions and collections
   - 09.10.2023 - [my_first_project: Warehouse](https://github.com/mkskh/my_first_project)
 
