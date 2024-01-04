@@ -13,6 +13,7 @@ I'm a former [seller](https://www.amazon.com/sp?ie=UTF8&seller=A1BBA58K2MDADI&is
 
 
   # My projects:
+  - Currently Working On - [GUI mp3 player](https://github.com/mkskh/GUI-mp3-player) 
   - 15.12.2023 - [Inventory Management System](https://github.com/mkskh/inventory-management-system)
   - 10.12.2023 - [Simple GUI Calculator](https://github.com/mkskh/Simple-GUI-Calculator)
   - 09.12.2023 - [tkinter simple program](https://github.com/mkskh/tkinter)
