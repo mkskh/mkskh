@@ -4,7 +4,7 @@ My name is Max. My age is 29. I'm from Ukraine. I've been living in Berlin since
 I'm a former [seller](https://www.amazon.com/sp?ie=UTF8&seller=A1BBA58K2MDADI&isAmazonFulfilled=0&asin=B077RT9KMV&ref_=olp_merch_name_7) on Amazon (USA Marketplace). I also have a master's degree in law.
 
 * I'm currently a DCI-student  
-* Completed an orientation course in IT at DCI  
+* Completed a one-month orientation course in IT at DCI in German language
 * Now I'm learning Python (started in July 2023)  
 * I have B1 German language level  
 * Actively improving my English. I'm taking an English course at language school GreenForest (from September 2023)  
