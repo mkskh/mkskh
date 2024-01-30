@@ -13,7 +13,8 @@ I'm a former [seller](https://www.amazon.com/sp?ie=UTF8&seller=A1BBA58K2MDADI&is
 
 
   # My projects:
-  - 29.01.2024 - [GUI Weather App](https://github.com/mkskh/GUI_Weather_App/) 
+  - 29.01.2024 - [GUI Weather App (using API)](https://github.com/mkskh/GUI_Weather_App/)
+  - 23.01.2024 - [Pizza Runner SQL Challenge (PostgreSQL)](https://github.com/mkskh/pizza-runner-sql-challenge) 
   - 11.01.2024 - [GUI mp3 player](https://github.com/mkskh/GUI-mp3-player) 
   - 15.12.2023 - [Inventory Management System](https://github.com/mkskh/inventory-management-system)
   - 10.12.2023 - [Simple GUI Calculator](https://github.com/mkskh/Simple-GUI-Calculator)
