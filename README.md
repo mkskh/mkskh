@@ -1,16 +1,14 @@
 # Hi there!
 
-My name is Max. My age is 29. I'm from Ukraine. I've been living in Berlin since July 2022  
-I'm a former [seller](https://www.amazon.com/sp?ie=UTF8&seller=A1BBA58K2MDADI&isAmazonFulfilled=0&asin=B077RT9KMV&ref_=olp_merch_name_7) on Amazon (USA Marketplace). I also have a master's degree in law.
+My name is Max. 
+I am currently a DCI student studying Python Backend (July 2023 - July 2024)  
+My age is 29. I'm from Ukraine. I've been living in Berlin since July 2022  
 
-* I'm currently a DCI-student  
+### Aditional:
+* B1 German language certificate
 * Completed a one-month orientation course in IT at DCI in German language
-* Now I'm learning Python (started in July 2023)  
-* I have B1 German language level  
-* Actively improving my English. I'm taking an English course at language school GreenForest (from September 2023)  
- 
-
-
+* Specialist's Degree in Law
+* I'm a former [seller](https://www.amazon.com/sp?ie=UTF8&seller=A1BBA58K2MDADI&isAmazonFulfilled=0&asin=B077RT9KMV&ref_=olp_merch_name_7) on Amazon (USA Marketplace).
 
   # My projects:
   - 23.02.2024 - [Django-forms-mkskh Exercise-Project](https://github.com/mkskh/Django-forms-mkskh) (Django Exercise-Project. More work with Foms. This is a continuation of previous project (the same website from the previous project)
