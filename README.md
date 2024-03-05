@@ -11,8 +11,8 @@ My age is 29. I'm from Ukraine. I've been living in Berlin since July 2022
 * I'm a former [seller](https://www.amazon.com/sp?ie=UTF8&seller=A1BBA58K2MDADI&isAmazonFulfilled=0&asin=B077RT9KMV&ref_=olp_merch_name_7) on Amazon (USA Marketplace).
 
   # My projects:
-  - 05.03.2024 - [Django-sessions-mkskh Exercise-Project Part 3](https://github.com/mkskh/Django-sessions-mkskh) (Django Exercise-Project. Work with LogIn system. Implemented Vote-System based in different users who can vote 1 time)
   - 04.03.2024 - [ToDo List](https://github.com/mkskh/todo_list_django_project) (Django Project)
+  - 27.02.2024. Updated--05.03.2024 - [Django-sessions-mkskh Exercise-Project Part 3](https://github.com/mkskh/Django-sessions-mkskh) (Django Exercise-Project. Work with LogIn system. Implemented Vote-System based in different users who can vote 1 time)
   - 23.02.2024 - [Django-forms-mkskh Exercise-Project Part 2](https://github.com/mkskh/Django-forms-mkskh) (Django Exercise-Project. More work with Foms)
   - 18.02.2024 - [Django_views-and-templates Exercise-Project Part 1](https://github.com/mkskh/Django_views-and-templates-mkskh/tree/main) (Django Exercise-Project. Work with Views and Templates)
   - 29.01.2024 - [GUI Weather App](https://github.com/mkskh/GUI_Weather_App/) (using API)
