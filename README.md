@@ -11,6 +11,7 @@ My age is 29. I'm from Ukraine. I've been living in Berlin since July 2022
 * I'm a former [seller](https://www.amazon.com/sp?ie=UTF8&seller=A1BBA58K2MDADI&isAmazonFulfilled=0&asin=B077RT9KMV&ref_=olp_merch_name_7) on Amazon (USA Marketplace).
 
   # My projects:
+  - In progress - [Django Ecommerce Website](https://github.com/mkskh/Django_Ecommerce_Website)
   - 07.03.2024 - [Creatin My Own API Using Django](https://github.com/mkskh/creating_api_using_django?tab=readme-ov-file) (Mini api)
   - 05.03.2024 - [Genius-Lyrics Api Django Mini-Project](https://github.com/mkskh/genius_api_django_project) (Enter the track and get the lyrics)
   - 04.03.2024 - [ToDo List](https://github.com/mkskh/todo_list_django_project) (Django Project)
