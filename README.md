@@ -24,7 +24,7 @@ My age is 29. I'm from Ukraine. I've been living in Berlin since July 2022
   - 15.12.2023 - [Inventory Management System](https://github.com/mkskh/inventory-management-system)
   - 10.12.2023 - [Simple GUI Calculator](https://github.com/mkskh/Simple-GUI-Calculator)
   - 09.12.2023 - [tkinter simple program](https://github.com/mkskh/tkinter)
-  - 27.11.2023 - [**Warehouse Project 4.0**](https://github.com/mkskh/Warehouse_4.0). All code was refactored into oop system
+  - 27.11.2023 - [**Warehouse Project 4.0(final version)**](https://github.com/mkskh/Warehouse_4.0). All code was refactored into oop system
   - 22.11.2023 - [Warehouse Project 3.0.](https://github.com/mkskh/warehouse_project_3.0)Added: user system, multi-warehouse system, log system
   - 22.10.2023 - [Warehouse Project 2.0.](https://github.com/mkskh/updated_project_warehouse)More work with functions and collections
   - 09.10.2023 - [my_first_project: Warehouse](https://github.com/mkskh/my_first_project)
