@@ -3,7 +3,8 @@
 My name is Max.  
 I am currently a DCI student studying Python Backend (July 2023 - July 2024)  
 My age is 29. I'm from Ukraine. I've been living in Berlin since July 2022  
-
+My [CV](https://drive.google.com/file/d/1k4YEWKeCFcke9lgbvIJhIqwkV59VN3Wx/view?usp=sharing)  
+  
 ### Aditional:
 * B1 German language certificate
 * Completed a one-month orientation course in IT at DCI in German language
