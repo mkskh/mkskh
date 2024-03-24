@@ -9,7 +9,7 @@ My [CV](https://drive.google.com/file/d/1k4YEWKeCFcke9lgbvIJhIqwkV59VN3Wx/view?u
 * B1 German language certificate
 * Completed a one-month orientation course in IT at DCI in German language
 * Specialist's Degree in Law
-* I'm a former [seller](https://www.amazon.com/sp?ie=UTF8&seller=A1BBA58K2MDADI&isAmazonFulfilled=0&asin=B077RT9KMV&ref_=olp_merch_name_7) on Amazon (USA Marketplace).
+* I'm a former [seller](https://www.amazon.com/sp?ie=UTF8&seller=A1BBA58K2MDADI&isAmazonFulfilled=0&asin=B077RT9KMV&ref_=olp_merch_name_7) on Amazon (USA Marketplace)
 
   # My projects:
   - In progress - [**Django Ecommerce Website**](https://github.com/mkskh/Django_Ecommerce_Website)
