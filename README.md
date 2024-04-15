@@ -6,7 +6,7 @@ My age is 29. I'm from Ukraine. I've been living in Berlin since July 2022
 My [CV](https://drive.google.com/file/d/1k4YEWKeCFcke9lgbvIJhIqwkV59VN3Wx/view?usp=sharing)  
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
-Currently actively searching for an internship for the period June 5 - July 31.  
+Currently actively searching for an internship for the period June 5 - July 30.  
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
   
 ### Aditional:
