@@ -17,7 +17,7 @@ Currently actively searching for an internship for the period June 5 - July 30.
 
   # My projects:
   - In progress - [**Django Ecommerce Website**](https://github.com/mkskh/Django_Ecommerce_Website)
-  - 21.03.2024 - [Hospital staff database Website (Django+creating and consuming API](https://github.com/mkskh/hospital_staff_database) (A search system that uses 4 sorting types. Search for a group of people by criteria (103 people in total))
+  - 21.03.2024 - [Hospital staff database Website (Django+creating and consuming API](https://github.com/mkskh/hospital_staff_database) (**1** A Django project that receives information from its own created API; **2** A search system that uses 4 sorting types. Search for a group of people by criteria (103 people in total))
   - 07.03.2024 - [Creatin My Own API Using Django](https://github.com/mkskh/creating_api_using_django?tab=readme-ov-file) (Mini api)
   - 05.03.2024 - [**Genius-Lyrics Api Django Project**](https://github.com/mkskh/genius_api_django_project) (Search top 10 tracks by artist - choose track - get the lyrics)
   - 04.03.2024 - [ToDo List](https://github.com/mkskh/todo_list_django_project) (Django Project)
