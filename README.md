@@ -17,7 +17,8 @@ Currently actively searching for an internship for the period June 5 - July 30.
 * I'm a former [seller](https://www.amazon.com/sp?ie=UTF8&seller=A1BBA58K2MDADI&isAmazonFulfilled=0&asin=B077RT9KMV&ref_=olp_merch_name_7) on Amazon (USA Marketplace)
 
   # My projects:
-  - In progress - [**Django Ecommerce Website**](https://github.com/mkskh/Django_Ecommerce_Website)
+  - In progress (started: Apr 23) - [**Social Network**](https://github.com/mkskh/social_network)  
+  - In progress (95% complete)- [**Django Ecommerce Website**](https://github.com/mkskh/Django_Ecommerce_Website)  
   - 21.03.2024 - [Hospital staff database Website (Django+creating and consuming API](https://github.com/mkskh/hospital_staff_database) (**1)** A Django project that receives information from its own created API; **2)** A search system that uses 4 sorting types. Search for a group of people by criteria (103 people in total))
   - 07.03.2024 - [Creatin My Own API Using Django](https://github.com/mkskh/creating_api_using_django?tab=readme-ov-file) (Mini api)
   - 05.03.2024 - [**Genius-Lyrics Api Django Project**](https://github.com/mkskh/genius_api_django_project) (Search top 10 tracks by artist - choose track - get the lyrics)
