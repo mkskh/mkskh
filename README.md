@@ -4,6 +4,7 @@ My name is Max.
 I am currently a DCI student studying Python Backend (July 2023 - July 2024) (theoretical part until 18 April 2024)  
 My age is 29. I'm from Ukraine. I've been living in Berlin since July 2022  
 My [CV](https://drive.google.com/file/d/1k4YEWKeCFcke9lgbvIJhIqwkV59VN3Wx/view?usp=sharing)  
+  
 I’m currently working on:  
 - [Django Ecommerce Website](https://github.com/mkskh/Django_Ecommerce_Website)  
 - [Social Network](https://github.com/mkskh/social_network)  
