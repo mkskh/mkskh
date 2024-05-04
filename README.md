@@ -1,7 +1,7 @@
 # Hi there!
 
 My name is Max.  
-I am currently a DCI student studying Python Backend (July 2023 - July 2024) 
+I am currently a DCI student studying Python Backend (July 2023 - July 2024)  
 The theoretical part of the course until 18 April 2024  
 Currently in the process of writing the final project - [Social Network](https://github.com/mkskh/social_network)  
   
