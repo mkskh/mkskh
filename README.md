@@ -35,7 +35,7 @@ I’m currently working on:
   - 29.01.2024 - [GUI Weather App](https://github.com/mkskh/GUI_Weather_App/) (using API)
   - 23.01.2024 - [Pizza Runner SQL Challenge](https://github.com/mkskh/pizza-runner-sql-challenge) (PostgreSQL)
   - 11.01.2024 - [GUI mp3 player](https://github.com/mkskh/GUI-mp3-player) (Tkinter)
-  - 15.12.2023 - [Inventory Management System](https://github.com/mkskh/inventory-management-system) (Python Classes)
+  - 15.12.2023 - [Inventory Management System](https://github.com/mkskh/inventory-management-system) (Python Classes + Unittests)
   - 10.12.2023 - [Simple GUI Calculator](https://github.com/mkskh/Simple-GUI-Calculator)
   - 09.12.2023 - [tkinter simple program](https://github.com/mkskh/tkinter)
   - 27.11.2023 - [**Warehouse Project 4.0(final version)**](https://github.com/mkskh/Warehouse_4.0). (Python) All code was refactored into class-based system
