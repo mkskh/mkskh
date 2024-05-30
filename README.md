@@ -2,25 +2,23 @@
 
 My name is Max.  
 I am currently a DCI student studying Python Backend (July 2023 - July 2024)  
-The theoretical part of the course until 18 April 2024  
-Currently in the process of writing the final project - [Social Network](https://github.com/mkskh/social_network)  
+The theoretical part of the course was until April 18, 2024.  
+Finished writing the final project as part of the DCI course - [Social Network](https://github.com/mkskh/social_network)  
+The next step is an internship at a Berlin IT startup from June to the end of July  
   
 My age is 29. I'm from Ukraine. I've been living in Berlin since July 2022  
 My [CV](https://drive.google.com/file/d/1HGKkxLCeHZon2RxHn7bZ9iIhXD2R9xiB/view)  
   
-I’m currently working on:  
-- [Django Ecommerce Website](https://github.com/mkskh/Django_Ecommerce_Website)  
-- [Social Network](https://github.com/mkskh/social_network)  
   
 ### Aditional:
 * B1 German language certificate
-* Completed a one-month orientation course in IT at DCI in German language
+* Completed a one-month orientation course in IT at DCI in German language (from March to April 2023)
 * Specialist's Degree in Law
 * I'm a former [seller](https://www.amazon.com/sp?ie=UTF8&seller=A1BBA58K2MDADI&isAmazonFulfilled=0&asin=B077RT9KMV&ref_=olp_merch_name_7) on Amazon (USA Marketplace)
 
   # My projects:
-  - In progress (started: Apr 23) - [Social Network](https://github.com/mkskh/social_network)  
-  - In progress (90% complete)- [**Django Ecommerce Website**](https://github.com/mkskh/Django_Ecommerce_Website)  
+  - 30.05.2024 - [**Social Network**](https://github.com/mkskh/social_network) (Final group project at DCI)  
+  - 12.05.2024 - [**Django Ecommerce Website**](https://github.com/mkskh/Django_Ecommerce_Website)  
   - 21.03.2024 - [Hospital staff database Website (Django+creating and consuming API](https://github.com/mkskh/hospital_staff_database) (**1)** A Django project that receives information from its own created API; **2)** A search system that uses 4 sorting types. Search for a group of people by criteria (103 people in total))
   - 07.03.2024 - [Creatin My Own API Using Django](https://github.com/mkskh/creating_api_using_django?tab=readme-ov-file) (Mini api)
   - 05.03.2024 - [**Genius-Lyrics Api Django Project**](https://github.com/mkskh/genius_api_django_project) (Search top 10 tracks by artist - choose track - get the lyrics)
