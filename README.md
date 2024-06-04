@@ -7,7 +7,6 @@ Finished writing the final project as part of the DCI course - [Social Network](
 The next step is an internship at a Berlin IT startup from June to the end of July  
   
 My age is 29. I'm from Ukraine. I've been living in Berlin since July 2022  
-My [CV](https://drive.google.com/file/d/1HGKkxLCeHZon2RxHn7bZ9iIhXD2R9xiB/view)  
   
   
 ### Aditional:
