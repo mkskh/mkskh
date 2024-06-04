@@ -20,7 +20,7 @@ My age is 29. I'm from Ukraine. I've been living in Berlin since July 2022
   - 12.05.2024 - [**Django Ecommerce Website**](https://github.com/mkskh/Django_Ecommerce_Website)  
   - 21.03.2024 - [Hospital staff database Website (Django+creating and consuming API](https://github.com/mkskh/hospital_staff_database) (**1)** A Django project that receives information from its own created API; **2)** A search system that uses 4 sorting types. Search for a group of people by criteria (103 people in total))
   - 07.03.2024 - [Creatin My Own API Using Django](https://github.com/mkskh/creating_api_using_django?tab=readme-ov-file) (Mini api)
-  - 05.03.2024 - [**Genius-Lyrics Api Django Project**](https://github.com/mkskh/genius_api_django_project) (Search top 10 tracks by artist - choose track - get the lyrics)
+  - 05.03.2024 - [Genius-Lyrics Api Django Project](https://github.com/mkskh/genius_api_django_project) (Search top 10 tracks by artist - choose track - get the lyrics)
   - 04.03.2024 - [ToDo List](https://github.com/mkskh/todo_list_django_project) (Django Project)
   - 27.02.2024 - [Django-sessions-mkskh Exercise-Project Part 3](https://github.com/mkskh/Django-sessions-mkskh)  {{ UPDATED: 05.03.2024 }} (Django Exercise-Project. Work with LogIn system. Implemented Vote-System based in different users who can vote 1 time)
   - 23.02.2024 - [Django-forms-mkskh Exercise-Project Part 2](https://github.com/mkskh/Django-forms-mkskh) (Django Exercise-Project. More work with Foms)
